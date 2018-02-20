@@ -5,4 +5,4 @@ This script adds new hosts and creates a new firewall rule that allows a single 
 
 Also accomidates the fact that a host might be an existing 'bastion' host, and be managed by an existing group and affiliated rule.
 
-This is, or course, very institution specific, but it's meant to serve as an example of how one might work in Python with the SMC REST API.
+This is, of course, very institution specific, but it's meant to serve as an example of how one might work in Python with the SMC REST API.
